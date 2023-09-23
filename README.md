@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @polygot
-- 👀 I’m interested in python learning
-- 🌱 I’m currently learning python
+- 👀 I’m fullstack Developer
+- 🌱 I’m currently learning about myself
 - 💞️ I’m looking to collaborate on everyone that can teach me
 - 📫 How to reach me : telegram : @all_mightno1
 
