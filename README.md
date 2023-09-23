@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amerul95
+- 👋 Hi, I’m @polygot
 - 👀 I’m interested in python learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everyone that can teach me
